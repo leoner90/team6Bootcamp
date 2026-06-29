@@ -1,6 +1,7 @@
-Vytautas:
+Vytautas
 
 About myself:
+
 I am a student from university of Vilnius. I'm a CS student and I study software engineering.
 I worked on several projects and learned a lot of different programming languages like: bash, R, sql,
 C++, C#, Java, pascal, assembly and other various languages.  My favorite experience so far was working
@@ -8,3 +9,12 @@ in automation at a company that develops automatic assembly lines using robots. 
 to work with C# creating an HMI and programming PLC controllers as well as robots like KUKA or UR.
 Outside of work I particularly enjoy nature, automotive sports and cars in general. I'm an active person and
 I visit gym frequently.
+
+
+What I want to achieve in this bootcamp:
+
+This bootcamp advertised Java and spring boot as a main focus, and I want to gain more experience
+in this field to comfortably work with these tools in the future. By the end of the bootcamp I am hoping
+to be able to work with Java and spring boot efficiently and be able to implement OOP principles
+on the projects I'm working on with ease. Besides that I am interested in learning how spring security and
+testing works using this framework.
