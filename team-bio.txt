@@ -18,3 +18,34 @@ in this field to comfortably work with these tools in the future. By the end of 
 to be able to work with Java and spring boot efficiently and be able to implement OOP principles
 on the projects I'm working on with ease. Besides that I am interested in learning how spring security and
 testing works using this framework.
+
+Vladlen: I'm 21 years old. Currently studying in Riga Technical University. Faculty DITEF at the course Computer Systems.
+Most liked lectures are about Ai and sql. Most disliked are physics and Civil Defense. I love spending free time with friends,
+ usually playing with them.
+
+I want to learn Spring Boot and fill in the gaps in my knowledge of OOP. I’d also like to meet new people and secure an internship.
+
+______
+My name is Leonids.
+
+I recently graduated from a UK university with a degree in Game Development.
+
+I have experience working with C++, Unreal Engine, and React.
+
+I will do my best to learn Java during the bootcamp and develop my skills to a professional level.
+
+Mikus
+From Liepaja, Latvia
+Got IT education 20+ years ago, but didn’t work in the field. Except for casual techsupport
+Now back to IT.
+In this Bootcamp i want to deepen my Java knowledge. And get better at working in teams.
+
+I am Faustas, currently studying in Vilnius University.
+I want to achieve the knowledge of JAVA.
+
+Aleena C R
+-----------
+
+I am Aleena C R. I am currently living in Jelgava. I am a Laravel full stack developer. I have practical experience in PHP and React. I have completed my Bachelor's degree in Computer Science.
+I am excited to join this Java Bootcamp because I want to improve my Java knowledge, learn new skills, and gain practical
+to grow as a software developer and create more career opportunities in the future.
