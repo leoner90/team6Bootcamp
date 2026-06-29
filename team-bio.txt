@@ -1,3 +1,6 @@
 Vladlen: I'm 21 years old. Currently studying in Riga Technical University. Faculty DITEF at the course Computer Systems.
 Most liked lectures are about Ai and sql. Most disliked are physics and Civil Defense. I love spending free time with friends,
- usually playing with them. I want to learn Springboot and close gaps in OOP.
+ usually playing with them.
+
+I want to learn Spring Boot and fill in the gaps in my knowledge of OOP. I’d also like to meet new people and secure an internship.
+
