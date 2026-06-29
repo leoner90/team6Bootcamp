@@ -2,5 +2,14 @@ Mikus
 From Liepaja, Latvia
 Got IT education 20+ years ago, but didn’t work in the field. Except for casual techsupport
 Now back to IT.
-
 In this Bootcamp i want to deepen my Java knowledge. And get better at working in teams.
+
+I am Faustas, currently studying in Vilnius University.
+I want to achieve the knowledge of JAVA.
+
+Aleena C R
+-----------
+
+I am Aleena C R. I am currently living in Jelgava. I am a Laravel full stack developer. I have practical experience in PHP and React. I have completed my Bachelor's degree in Computer Science.
+I am excited to join this Java Bootcamp because I want to improve my Java knowledge, learn new skills, and gain practical
+to grow as a software developer and create more career opportunities in the future.
