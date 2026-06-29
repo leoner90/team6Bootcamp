@@ -2,3 +2,5 @@ Mikus
 From Liepaja, Latvia
 Got IT education 20+ years ago, but didn’t work in the field. Except for casual techsupport
 Now back to IT.
+
+In this Bootcamp i want to deepen my Java knowledge. And get better at working in teams.
